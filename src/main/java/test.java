@@ -1,3 +1,6 @@
 public class test {
-    //asdf
+    //asdfhihkjkj
+    public void test3() {
+        //asdfhihkjkj
+    }
 }
