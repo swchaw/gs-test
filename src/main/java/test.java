@@ -1,6 +1,8 @@
 public class test {
     //asdf
+    
+    public void test2() {
+        //asdfhihkjkj
+    }
 }
-public class test1 {
-    //asdf
-}
+
